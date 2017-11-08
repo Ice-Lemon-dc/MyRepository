@@ -1,0 +1,415 @@
+工具类
+	https://github.com/Blankj/AndroidUtilCode
+	
+	https://github.com/vondear/RxTools
+
+	
+	Android开发常用功能大集合
+		https://github.com/QQ986945193/DavidAndroidProjectTools
+
+	
+网络请求
+	一款基于Retrofit2+RxJava实现简单易用的网络请求框架
+		https://github.com/zhou-you/RxEasyHttp
+	Android网络框架，基于Retrofit和RxJava打造的链式网络库
+		https://github.com/Tamicer/Novate
+		
+	处理网络的最简方式
+		https://github.com/amitshekhariitbhu/Fast-Android-Networking
+		
+	RxJava2（学习RxJava2）最好的例子Demo
+		https://github.com/nanchen2251/RxJava2Examples
+
+Android智能下拉刷新框架，支持越界回弹
+	https://github.com/scwang90/SmartRefreshLayout
+	
+	https://github.com/lcodecorex/TwinklingRefreshLayout
+	
+	一个支持网络错误重试，无数据页（可自定义），无网络界面（可自定义）的上拉加载更多，下拉刷新控件
+		https://github.com/zhangtuodd/CustomRefreshView
+	
+	https://github.com/nuptboyzhb/SuperSwipeRefreshLayout
+	
+RecyclerView  	
+	https://github.com/jianghejie/XRecyclerView
+	
+	https://github.com/huxq17/XRefreshView
+	
+	RecyclerView侧滑菜单
+		https://github.com/yanzhenjie/SwipeRecyclerView
+		
+	一句代码搞定 RecycleView 侧滑菜单、添加头部底部、加载更多	
+		https://github.com/yhaolpz/SlideAdapter
+	
+	LayoutManager
+		风扇扇叶旋转
+			https://github.com/Cleveroad/FanLayoutManager
+		传送带效果，支持横向和纵向两种选择
+			https://github.com/Azoft/CarouselLayoutManager
+		一个针对RecyclerView的LayoutManager扩展, 主要提供一整套布局方案和布局间的组件复用的问题
+			https://github.com/alibaba/vlayout
+		ItemDecoration
+			https://github.com/yqritc/RecyclerView-FlexibleDivider
+
+		recyclerView动画库
+			https://github.com/wasabeef/recyclerview-animators
+			
+		滑动删除
+			https://github.com/daimajia/AndroidSwipeLayout
+			
+		recyclerview扩展动画
+			https://github.com/wasabeef/recyclerview-animators
+			
+		常用的RecyclerView的各种需求封装进库(不是RecyclerView,继承FrameLayout)
+			https://github.com/Jude95/EasyRecyclerView
+ViewPager
+	UltraViewPager是一个封装多种特性的ViewPager  
+		https://github.com/alibaba/UltraViewPager
+
+	模仿饿了么详情页可以跟随手指移动 viewpager变详情页
+		https://github.com/githubwing/ZoomHeader
+		
+	一个完美兼容ViewPager的导航栏组件
+		https://github.com/HomHomLin/AdvancedPagerSlidingTabStrip
+		
+	通用的广告栏控件，让你轻松实现广告头效果
+		https://github.com/saiwu-bigkoo/Android-ConvenientBanner
+		https://github.com/youth5201314/banner
+		https://github.com/daimajia/AndroidImageSlider
+		https://github.com/pinguo-zhouwei/MZBannerView
+		
+	模仿探探卡片滑动效果的布局
+		https://github.com/yuqirong/CardSwipeLayout 
+		
+	滑动选择器 
+		https://github.com/GoodieBag/CarouselPicker
+		
+	通过简单的接口实现ViewPager，Head，TabLayout，RecyclerView组合展示	
+		https://github.com/goyourfly/TabViewPager
+
+Fragment
+	类似微信,网易新闻 延迟加载Fragment基类
+		https://github.com/xmagicj/LazyFragment
+	
+	https://github.com/Mr-wangyong/FragmentStack
+	
+TextView:
+	SuperTextView是一个功能强大的View，可以满足日常大部分布局样式	
+		https://github.com/lygttpod/SuperTextView
+	验证输入合法性的编辑框，支持输入、英文、ip、url 等多种正则验证
+		https://github.com/vekexasia/android-edittext-validator
+	支持 emojis 的 TextView 和 EditText
+		https://github.com/rockerhieu/emojicon
+	可固定边界内容字体大小自适应的 TextView
+		https://github.com/grantland/android-autofittextview
+	可展开和收缩内容的 TextView。
+		https://github.com/Manabu-GT/ExpandableTextView
+	一个textview每隔几秒钟自动改变其内容
+		https://github.com/rosenpin/FadingTextView 
+	button选择器
+		https://github.com/niniloveyou/StateButton	
+		
+	新的 Material Design 文本框
+		https://github.com/HITGIF/TextFieldBoxes
+		
+	基于TextView 1.直接设置selector背景2.直接设置drawableLeft大小 3.圆角，圆形，背景/边框/文字根据状态变色
+		https://github.com/RuffianZhong/RTextView
+		
+图片 
+	圆形图片
+		https://github.com/hdodenhof/CircleImageView
+		
+	基于Glide V4.0封装的图片加载库
+		https://github.com/sfsheng0322/GlideImageView
+	
+	ImageView一个易于使用的实现
+		https://github.com/chrisbanes/PhotoView
+	
+	高仿微信可拖拽返回PhotoView
+		https://github.com/githubwing/DragPhotoView
+		
+	一个流畅的photoview
+		https://github.com/bm-x/PhotoView
+		
+	Matisse－图片选择器
+		https://github.com/zhihu/Matisse
+		
+	设置界面条目封装 
+		https://github.com/leonHua/LSettingView
+	
+	SelectableRoundedImageView是一个支持每个图片角不同半径圆角的Android  ImageView
+		https://github.com/pungrue26/SelectableRoundedImageView
+		
+	智能图片裁剪框架
+		https://github.com/pqpo/SmartCropper
+		
+	压缩，图片压缩
+		https://github.com/nanchen2251/CompressHelper
+		
+	一款用于在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库
+		https://github.com/crazycodeboy/TakePhoto
+	
+	一款轻量级的文件选择器,支持多种文件类型
+			https://github.com/fishwjy/MultiType-FilePicker
+		
+dialog
+	https://github.com/pedant/sweet-alert-dialog
+	https://github.com/afollestad/material-dialogs
+	https://github.com/yipianfengye/android-adDialog
+	
+	基于DialogFragment的扩展
+		https://github.com/Othershe/NiceDialog
+	
+	多功能dialog
+		https://github.com/H07000223/FlycoDialog_Master
+		
+	对dialog进行封装
+		https://github.com/jyygithub/dialog
+		
+	一个简单，强大的广告活动弹窗控件
+		https://github.com/yipianfengye/android-adDialog 
+		
+	通过封装DialogFragment实现的Dialog
+		https://github.com/tianzhijiexian/EasyDialog
+		
+PopupWindow
+	对 PopupWindow 的封装	
+		https://github.com/zyyoona7/EasyPopup
+		
+	对PopupWindow常用API的简单封装
+		https://github.com/pinguo-zhouwei/CustomPopwindow
+		
+Layout
+	流式布局的效果，很像我们平时看到的标签云
+		https://github.com/BelooS/ChipsLayoutManager
+	
+	Android可伸缩布局－FlexboxLayout(支持RecyclerView集成)
+		https://github.com/google/flexbox-layout
+		
+		
+	一个Android TabLayout库,目前有3个TabLayout
+		https://github.com/H07000223/FlycoTabLayout
+		
+	https://github.com/hugeterry/CoordinatorTabLayout
+	
+	https://github.com/tyzlmjj/PagerBottomTabStrip
+	
+	可伸展收缩的LinearLayout
+		https://github.com/iammert/ExpandableLayout
+		
+	竖直线性步骤MaterialStepperView
+		https://github.com/fython/MaterialStepperView
+		
+		
+	实现多功能流式布局与网格布局
+		https://github.com/LRH1993/AutoFlowLayout 
+
+	
+	一个预加载页面的类库
+		https://github.com/ethanhua/Skeleton
+		
+	
+	
+	一个集成loading, error, empty 状态的View
+		https://github.com/santalu/emptyview 
+		
+	一个提供吸顶效果的ItemDecoration
+		https://github.com/boboyuwu/PinnedHeaderItemDecoration
+	
+Coordinator+AppBarLayout+design设计的demo
+	https://github.com/nanchen2251/CoordinatorAppBarDemo
+	
+	https://github.com/pinguo-zhouwei/MaterialDesignSamples
+
+		
+Animation
+	
+	自定义LayoutAnimationController，一行代码搞定布局动画
+		https://github.com/HuanHaiLiuXin/ILayoutAnimationController
+	
+	场景切换动画
+		https://github.com/lgvalle/Material-Animations
+		
+	可爱动画框架
+		https://github.com/daimajia/AndroidViewAnimations
+	
+WebView
+	https://github.com/Justson/AgentWeb
+	
+	高性能的 Hybird(混合) 框架
+	https://github.com/Tencent/VasSonic
+	
+	
+搜索框
+	https://github.com/KieronQuinn/PersistentSearch
+	
+	一款封装了 历史搜索记录功能
+		https://github.com/Carson-Ho/Search_Layout
+
+	https://github.com/Bigkoo/Android-PickerView (三级联动选择器)
+	
+	方便集成的搜索框
+		https://github.com/limuyang2/CardSearchView
+
+		
+一个顺滑的抽屉效果
+		https://github.com/yarolegovich/SlidingRootNav
+		
+标签 
+	Android应用程序显示未读消息的计数作为徽章应用程序快捷方式
+		https://github.com/leolin310148/ShortcutBadger 
+	标签云效果
+		https://github.com/kingideayou/TagCloudView		
+	
+	一个简单的Android标签控件.
+		https://github.com/H07000223/FlycoLabelView
+	
+	可以用作类别标签
+		https://github.com/robertlevonyan/materialChipView 
+
+沉浸式导航栏
+	状态栏工具类（实现沉浸式状态栏/变色状态栏）
+		https://github.com/laobie/StatusBarUtil
+	
+	https://github.com/Kelin-Hong/TranslucentBar
+	
+	透明状态栏导航栏、沉浸式状态栏导航栏
+		https://github.com/Zackratos/UltimateBar
+		
+	状态栏一体化
+		https://github.com/yanzhenjie/StatusView
+		
+	沉浸式/透明式状态栏                                                        
+		http://www.jianshu.com/p/d479e91a8014
+	
+Activity
+	ActivitySwitcher 是一个基于 Activity 视图操作管理库，可以实现 Activity 之间任意跳转、关闭任意一个 Activity 以及结束应用程序等功能
+		https://github.com/Hitomis/ActivitySwitcher
+	
+	SwipeBackHelper——Activity滑动关闭支持库，能达到微信效果
+		https://github.com/Jude95/SwipeBackHelper
+	
+	五种实现activity动画切换的方式
+		https://github.com/yipianfengye/android-activityAnim
+	
+
+支付：
+	https://github.com/kingofglory/EasyPay  (微信、支付宝、银联)
+	https://github.com/mayubao/Android-Pay  (微信、支付宝)
+	https://github.com/tsy12321/PayAndroid	 (微信、支付宝)
+	
+	一个集成支付宝微信的支付工具
+		https://github.com/Cuieney/RxPay
+	
+第三方SDK集成库，授权/分享/支付
+	https://github.com/czy1121/sdk3rd
+	
+第三方分享
+	https://github.com/shaohui10086/ShareUtil
+	
+消息推送用OnePush
+	https://github.com/pengyuantao/OnePush
+	
+json解析
+	https://github.com/alibaba/fastjson
+	
+Android6.0权限处理
+	https://github.com/googlesamples/easypermissions
+	https://github.com/tbruyelle/RxPermissions
+	
+	android运行时权限，支持在任何地方申请权限
+	https://github.com/yanzhenjie/AndPermission
+	
+一种粗暴快速的Android全屏幕适配方案	
+	https://github.com/Firedamp/Rudeness 
+
+
+	
+版本更新
+	android上的自动版本检测并更新库
+		https://github.com/AlexLiuSheng/CheckVersionLib
+	
+	快速实现app在线下载更新
+		https://github.com/teprinciple/UpdateAppDemo
+	Android 文件下载引擎
+		https://github.com/lingochamp/FileDownloader	
+	
+数据库
+	https://github.com/greenrobot/greenDAO
+	
+依赖注入库
+	https://github.com/google/dagger
+	
+内存检测库
+	https://github.com/square/leakcanary
+	
+磁盘缓存
+	https://github.com/JakeWharton/DiskLruCache
+	
+Log框架
+	https://github.com/orhanobut/logger
+	
+图片变换库
+	https://github.com/wasabeef/glide-transformations
+	
+二维码扫描功能
+	https://github.com/yipianfengye/android-zxingLibrary
+	
+android产品研发过程中常用的技术，技巧，实践等
+	https://github.com/yipianfengye/androidProject 
+
+视频
+	IjkPlayerView是一个基于ijkplayer的视屏播放库，可以用于播放本地和网络视频。
+		https://github.com/Rukey7/IjkPlayerView
+	
+	ijkplayer视频框架
+		https://github.com/Bilibili/ijkplayer
+	
+	视频全屏播放
+		https://github.com/lipangit/JieCaoVideoPlayer
+
+	一种支持多种弹幕样式的弹幕视图控件
+		https://github.com/hust201010701/XDanmuku
+	
+
+Android快速开发框架
+	https://github.com/androidannotations/androidannotations
+	
+	https://github.com/JessYanCoding/MVPArms
+	
+	https://github.com/TommyLemon/Android-ZBLibrary 
+	
+	基于RxJava2+Retrofit2精心打造的Android基础框架
+		https://github.com/xiaoyaoyou1212/XSnow
+	
+	高性能安卓 UI 的构建框架
+		https://github.com/facebook/litho
+	
+	提高 Android UI 开发效率的 UI 库 	
+		https://github.com/QMUI/QMUI_Android
+		
+	MVP快速开发框架	
+		https://github.com/Jude95/Beam
+	
+图表
+	https://github.com/diogobernardino/WilliamChart
+	
+
+对购物车加减按钮的简单封装	
+	https://github.com/Jmengfei/AddSubUtils
+	
+Activity启动过程中获取组件宽高的五种方式
+	https://github.com/yipianfengye/android-viewheight 
+	
+软键盘	
+	https://github.com/zybieku/SoftKeyboardUtil
+
+基于腾讯浏览服务Tbs,使用X5Webkit内核,实现文件的展示功能，支持多种文件格式，例如doc、excel、ppt、excel、pdf等格式；
+	https://github.com/ZhongXiaoHong/superFileView
+
+在加载网络或其他数据时候，根据需求切换状态页面， 可添加自定义状态页面，如加载中，加载失败，无数据，网络超时，如占位图，登录失效等常用页面	
+	https://github.com/KingJA/LoadSir
+
+	
+	支付宝首页交互 https://github.com/kyleduo/ExamplesFromMyBlog
+
