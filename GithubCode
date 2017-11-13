@@ -77,6 +77,10 @@ ViewPager
 		https://github.com/youth5201314/banner
 		https://github.com/daimajia/AndroidImageSlider
 		https://github.com/pinguo-zhouwei/MZBannerView
+
+	viewpager 的工具类，内置多种指示器
+		https://github.com/LillteZheng/ViewPagerHelper
+		
 		
 	模仿探探卡片滑动效果的布局
 		https://github.com/yuqirong/CardSwipeLayout 
