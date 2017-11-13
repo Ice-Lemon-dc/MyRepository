@@ -114,6 +114,8 @@ LookLook
 界面:遵循Google Meterial 设计风格
 其他：Cardview，RecycleView，Butterknife，PhotoView
 
+一款第三方今日头条客户端
+	https://github.com/iMeiji/Toutiao
 	
 Meizhi (3200)
 	https://github.com/drakeet/Meizhi
@@ -190,6 +192,12 @@ Mvp 模式的一款资讯类 学习app，包含4 个模块 轻松一刻，今日
 	https://github.com/liulingfeng/Common
 	这边封装了基础module（每个app所需要的基本上都有）
 	
+diycode采用了数据多级缓存，并且实现了离线浏览(访问过一次的页面会被缓存下来，没有网络也可查看)，相比于网页版，在一定程度上可以减少在手机上访问的流量消耗	
+	https://github.com/GcsSloop/diycode
+	
+一个实现『划词翻译』功能的 Android 应用	
+	https://github.com/maoruibin/TranslateApp
+	
 	
 仿最新版微信
 	https://github.com/GitLqr/LQRWeChat
@@ -242,8 +250,12 @@ RxPicker
 高仿全民直播（全民TV）
 	https://github.com/jenly1314/KingTV
 	项目采用 MVP + RXJava + Retrofit + OKHttp + Material Design + Dagger2 + Base + Glide + GreenDao构建。
-	
+
+技术船
 	https://github.com/onlyloveyd/GankIOClient
+	
+MVP模式，使用 Retorfit2.0+RxJava1.0+OKhttp+Fresco+Rtmp直播，高仿斗鱼TV项目
+	https://github.com/TeamCodeForGit/DouYu
 	
 任阅" 网络小说阅读器 项目基于RxJava + Retrofit2 + Dagger2，结合MVP模式开发
 	https://github.com/JustWayward/BookReader
@@ -291,11 +303,15 @@ GankIO Android
 	https://github.com/yangxiaobinhaoshuai/NewGank
 	
 Kotlin
-	https://github.com/CodeXiaoMai/AndroidGeek
+	使用Kotlin撸一款Eyepetizer
+		https://github.com/LRH1993/Eyepetizer-in-Kotlin
 	
-	https://github.com/Cuieney/kotlin-life(基于Material Design Kotlin + MVP + RxJava + Retrofit + Dagger2 + GreenDAO + Glide)
+		https://github.com/CodeXiaoMai/AndroidGeek
 	
-	https://github.com/zhoujunjiang/DoubanMovie(基于MVVM架构,采用kotiln进行开发的豆瓣电影TOP250 Android App)
+		https://github.com/Cuieney/kotlin-life(基于Material Design Kotlin + MVP + RxJava + Retrofit + Dagger2 + GreenDAO + Glide)
 	
-https://github.com/550609334/Twobbble
-这是一个使用Kotlin开发的Dribbble客户端
+		https://github.com/zhoujunjiang/DoubanMovie(基于MVVM架构,采用kotiln进行开发的豆瓣电影TOP250 Android App)
+	
+	使用Kotlin开发的Dribbble客户端
+		https://github.com/550609334/Twobbble
+
