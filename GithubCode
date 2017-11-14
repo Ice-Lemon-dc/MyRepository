@@ -3,44 +3,36 @@
 	
 	https://github.com/vondear/RxTools
 
-	
 	Android开发常用功能大集合
 		https://github.com/QQ986945193/DavidAndroidProjectTools
 
-	
 网络请求
 	一款基于Retrofit2+RxJava实现简单易用的网络请求框架
 		https://github.com/zhou-you/RxEasyHttp
 	Android网络框架，基于Retrofit和RxJava打造的链式网络库
 		https://github.com/Tamicer/Novate
-		
 	处理网络的最简方式
 		https://github.com/amitshekhariitbhu/Fast-Android-Networking
-		
 	RxJava2（学习RxJava2）最好的例子Demo
 		https://github.com/nanchen2251/RxJava2Examples
-
 Android智能下拉刷新框架，支持越界回弹
 	https://github.com/scwang90/SmartRefreshLayout
-	
 	https://github.com/lcodecorex/TwinklingRefreshLayout
-	
 	一个支持网络错误重试，无数据页（可自定义），无网络界面（可自定义）的上拉加载更多，下拉刷新控件
 		https://github.com/zhangtuodd/CustomRefreshView
-	
 	https://github.com/nuptboyzhb/SuperSwipeRefreshLayout
-	
 RecyclerView  	
+	一个强大的RecyclerAdapter框架
+		https://github.com/CymChad/BaseRecyclerViewAdapterHelper
 	https://github.com/jianghejie/XRecyclerView
-	
 	https://github.com/huxq17/XRefreshView
-	
-	RecyclerView侧滑菜单
+	RecyclerView侧滑菜单，Item拖拽，滑动删除Item，自动加载更多，HeaderView，FooterView，Item分组黏贴
 		https://github.com/yanzhenjie/SwipeRecyclerView
-		
+		https://github.com/AItsuki/SwipeMenuRecyclerView
 	一句代码搞定 RecycleView 侧滑菜单、添加头部底部、加载更多	
 		https://github.com/yhaolpz/SlideAdapter
-	
+	ItemTouchHelper实现今日头条频道排序、移动
+		https://github.com/YoKeyword/ItemTouchHelperDemo
 	LayoutManager
 		风扇扇叶旋转
 			https://github.com/Cleveroad/FanLayoutManager
@@ -50,53 +42,38 @@ RecyclerView
 			https://github.com/alibaba/vlayout
 		ItemDecoration
 			https://github.com/yqritc/RecyclerView-FlexibleDivider
-
 		recyclerView动画库
 			https://github.com/wasabeef/recyclerview-animators
-			
 		滑动删除
-			https://github.com/daimajia/AndroidSwipeLayout
-			
+			https://github.com/daimajia/AndroidSwipeLayout	
 		recyclerview扩展动画
-			https://github.com/wasabeef/recyclerview-animators
-			
+			https://github.com/wasabeef/recyclerview-animators		
 		常用的RecyclerView的各种需求封装进库(不是RecyclerView,继承FrameLayout)
 			https://github.com/Jude95/EasyRecyclerView
 ViewPager
 	UltraViewPager是一个封装多种特性的ViewPager  
 		https://github.com/alibaba/UltraViewPager
-
 	模仿饿了么详情页可以跟随手指移动 viewpager变详情页
-		https://github.com/githubwing/ZoomHeader
-		
+		https://github.com/githubwing/ZoomHeader	
 	一个完美兼容ViewPager的导航栏组件
 		https://github.com/HomHomLin/AdvancedPagerSlidingTabStrip
-		
 	通用的广告栏控件，让你轻松实现广告头效果
 		https://github.com/saiwu-bigkoo/Android-ConvenientBanner
 		https://github.com/youth5201314/banner
 		https://github.com/daimajia/AndroidImageSlider
 		https://github.com/pinguo-zhouwei/MZBannerView
-
 	viewpager 的工具类，内置多种指示器
 		https://github.com/LillteZheng/ViewPagerHelper
-		
-		
 	模仿探探卡片滑动效果的布局
 		https://github.com/yuqirong/CardSwipeLayout 
-		
 	滑动选择器 
 		https://github.com/GoodieBag/CarouselPicker
-		
 	通过简单的接口实现ViewPager，Head，TabLayout，RecyclerView组合展示	
 		https://github.com/goyourfly/TabViewPager
-
 Fragment
 	类似微信,网易新闻 延迟加载Fragment基类
 		https://github.com/xmagicj/LazyFragment
-	
-	https://github.com/Mr-wangyong/FragmentStack
-	
+	https://github.com/Mr-wangyong/FragmentStack	
 TextView:
 	SuperTextView是一个功能强大的View，可以满足日常大部分布局样式	
 		https://github.com/lygttpod/SuperTextView
@@ -207,12 +184,9 @@ Layout
 		
 	实现多功能流式布局与网格布局
 		https://github.com/LRH1993/AutoFlowLayout 
-
 	
 	一个预加载页面的类库
 		https://github.com/ethanhua/Skeleton
-		
-	
 	
 	一个集成loading, error, empty 状态的View
 		https://github.com/santalu/emptyview 
@@ -224,8 +198,7 @@ Coordinator+AppBarLayout+design设计的demo
 	https://github.com/nanchen2251/CoordinatorAppBarDemo
 	
 	https://github.com/pinguo-zhouwei/MaterialDesignSamples
-
-		
+	
 Animation
 	
 	自定义LayoutAnimationController，一行代码搞定布局动画
@@ -238,11 +211,12 @@ Animation
 		https://github.com/daimajia/AndroidViewAnimations
 	
 WebView
-	https://github.com/Justson/AgentWeb
-	
+	Android WebView 一个轻量级浏览器库 
+		https://github.com/Justson/AgentWeb
+	腾讯浏览服务
+		https://github.com/lshAndroid/WebviewTBS
 	高性能的 Hybird(混合) 框架
-	https://github.com/Tencent/VasSonic
-	
+		https://github.com/Tencent/VasSonic
 	
 搜索框
 	https://github.com/KieronQuinn/PersistentSearch
@@ -254,7 +228,6 @@ WebView
 	
 	方便集成的搜索框
 		https://github.com/limuyang2/CardSearchView
-
 		
 一个顺滑的抽屉效果
 		https://github.com/yarolegovich/SlidingRootNav
@@ -327,8 +300,6 @@ Android6.0权限处理
 一种粗暴快速的Android全屏幕适配方案	
 	https://github.com/Firedamp/Rudeness 
 
-
-	
 版本更新
 	android上的自动版本检测并更新库
 		https://github.com/AlexLiuSheng/CheckVersionLib
@@ -371,11 +342,12 @@ android产品研发过程中常用的技术，技巧，实践等
 	
 	视频全屏播放
 		https://github.com/lipangit/JieCaoVideoPlayer
+	VideoListPlayer实现了在列表控件（ListView, RecyclerView）中加载并播放视频，并支持滑动时自动播放/暂停的功能	
+		https://github.com/waynell/VideoListPlayer
 
 	一种支持多种弹幕样式的弹幕视图控件
 		https://github.com/hust201010701/XDanmuku
 	
-
 Android快速开发框架
 	https://github.com/androidannotations/androidannotations
 	
@@ -398,7 +370,6 @@ Android快速开发框架
 图表
 	https://github.com/diogobernardino/WilliamChart
 	
-
 对购物车加减按钮的简单封装	
 	https://github.com/Jmengfei/AddSubUtils
 	
