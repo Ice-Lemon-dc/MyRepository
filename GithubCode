@@ -247,14 +247,6 @@ WebView
 沉浸式导航栏
 	状态栏工具类（实现沉浸式状态栏/变色状态栏）
 		https://github.com/laobie/StatusBarUtil
-	
-	https://github.com/Kelin-Hong/TranslucentBar
-	
-	透明状态栏导航栏、沉浸式状态栏导航栏
-		https://github.com/Zackratos/UltimateBar
-		
-	状态栏一体化
-		https://github.com/yanzhenjie/StatusView
 		
 	沉浸式/透明式状态栏                                                        
 		http://www.jianshu.com/p/d479e91a8014
