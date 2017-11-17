@@ -1,10 +1,11 @@
 工具类
 	https://github.com/Blankj/AndroidUtilCode
-	
 	https://github.com/vondear/RxTools
-
 	Android开发常用功能大集合
 		https://github.com/QQ986945193/DavidAndroidProjectTools
+	
+	Activity启动过程中获取组件宽高的五种方式
+		https://github.com/yipianfengye/android-viewheight 
 
 网络请求
 	一款基于Retrofit2+RxJava实现简单易用的网络请求框架
@@ -15,6 +16,9 @@
 		https://github.com/amitshekhariitbhu/Fast-Android-Networking
 	RxJava2（学习RxJava2）最好的例子Demo
 		https://github.com/nanchen2251/RxJava2Examples
+	在加载网络或其他数据时候，根据需求切换状态页面， 可添加自定义状态页面，如加载中，加载失败，无数据，网络超时，如占位图，登录失效等常用页面	
+		https://github.com/KingJA/LoadSir
+		
 Android智能下拉刷新框架，支持越界回弹
 	https://github.com/scwang90/SmartRefreshLayout
 	https://github.com/lcodecorex/TwinklingRefreshLayout
@@ -96,7 +100,7 @@ TextView:
 	基于TextView 1.直接设置selector背景2.直接设置drawableLeft大小 3.圆角，圆形，背景/边框/文字根据状态变色
 		https://github.com/RuffianZhong/RTextView
 		
-图片 
+ImageView
 	圆形图片
 		https://github.com/hdodenhof/CircleImageView
 		
@@ -289,6 +293,9 @@ Android6.0权限处理
 	android运行时权限，支持在任何地方申请权限
 	https://github.com/yanzhenjie/AndPermission
 	
+《安卓-深入浅出MVVM教程》
+	https://github.com/ittianyu/MVVM
+	
 一种粗暴快速的Android全屏幕适配方案	
 	https://github.com/Firedamp/Rudeness 
 
@@ -365,8 +372,7 @@ Android快速开发框架
 对购物车加减按钮的简单封装	
 	https://github.com/Jmengfei/AddSubUtils
 	
-Activity启动过程中获取组件宽高的五种方式
-	https://github.com/yipianfengye/android-viewheight 
+
 	
 软键盘	
 	https://github.com/zybieku/SoftKeyboardUtil
@@ -374,9 +380,5 @@ Activity启动过程中获取组件宽高的五种方式
 基于腾讯浏览服务Tbs,使用X5Webkit内核,实现文件的展示功能，支持多种文件格式，例如doc、excel、ppt、excel、pdf等格式；
 	https://github.com/ZhongXiaoHong/superFileView
 
-在加载网络或其他数据时候，根据需求切换状态页面， 可添加自定义状态页面，如加载中，加载失败，无数据，网络超时，如占位图，登录失效等常用页面	
-	https://github.com/KingJA/LoadSir
-
-	
 	支付宝首页交互 https://github.com/kyleduo/ExamplesFromMyBlog
-
+	
