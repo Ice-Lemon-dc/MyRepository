@@ -236,6 +236,9 @@ WebView
 一个顺滑的抽屉效果
 		https://github.com/yarolegovich/SlidingRootNav
 		
+《安卓-深入浅出MVVM教程》
+	https://github.com/ittianyu/MVVM
+		
 标签 
 	Android应用程序显示未读消息的计数作为徽章应用程序快捷方式
 		https://github.com/leolin310148/ShortcutBadger 
@@ -251,6 +254,9 @@ WebView
 沉浸式导航栏
 	状态栏工具类（实现沉浸式状态栏/变色状态栏）
 		https://github.com/laobie/StatusBarUtil
+		
+	android 4.4以上沉浸式状态栏和沉浸式导航栏管理
+		https://github.com/gyf-dev/ImmersionBar
 		
 	沉浸式/透明式状态栏                                                        
 		http://www.jianshu.com/p/d479e91a8014
@@ -292,9 +298,6 @@ Android6.0权限处理
 	
 	android运行时权限，支持在任何地方申请权限
 	https://github.com/yanzhenjie/AndPermission
-	
-《安卓-深入浅出MVVM教程》
-	https://github.com/ittianyu/MVVM
 	
 一种粗暴快速的Android全屏幕适配方案	
 	https://github.com/Firedamp/Rudeness 
