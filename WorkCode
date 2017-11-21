@@ -1,2 +1,77 @@
 raw  "android.resource://"+getPackageName()+"/" + R.raw.test;
 SD卡 Environment.getExternalStorageDirectory()+"test.3pg";
+
+
+public class MainActivity extends AppCompatActivity implements View.OnClickListener, SurfaceHolder.Callback {
+
+    private VideoView videoView;
+    private Button btn1, btn2;
+    private  String url;
+    private MediaPlayer mediaPlayer;
+    private SurfaceView surfaceView;
+    private SurfaceHolder surfaceHolder;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+        videoView = findViewById(R.id.vv);
+        btn1 = findViewById(R.id.btn_vv);
+        btn2 = findViewById(R.id.btn_Media);
+
+        btn1.setOnClickListener(this);
+        btn2.setOnClickListener(this);
+
+        url = "android.resource://" + getPackageName()+"/" + R.raw.video;
+        videoView.setVideoPath(url);
+        videoView.setMediaController(new MediaController(this));
+/*
+        File file = new File(Environment.getExternalStorageDirectory(),"video");
+        videoView.setVideoURI(Uri.fromFile(file));*/
+        surfaceView = findViewById(R.id.sv);
+        //方法一：根据音频文件的ID来创建MediaPlayer
+        //mediaPlayer = MediaPlayer.create(this,R.raw.video);
+        mediaPlayer = new MediaPlayer();
+        try {
+//            mediaPlayer.setDataSource(url);直接设置url不能播放
+            mediaPlayer.setDataSource(this, Uri.parse(url));
+            mediaPlayer.prepare();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        surfaceHolder = surfaceView.getHolder();
+        surfaceHolder.addCallback(this);
+
+    }
+
+    @Override
+    public void onClick(View v) {
+        switch (v.getId()) {
+            case R.id.btn_vv:
+                videoView.start();
+
+                break;
+            case R.id.btn_Media:
+                mediaPlayer.start();
+                break;
+            default:
+                break;
+        }
+    }
+
+    @Override
+    public void surfaceCreated(SurfaceHolder holder) {
+        mediaPlayer.setDisplay(surfaceHolder);
+    }
+
+    @Override
+    public void surfaceChanged(SurfaceHolder holder, int format, int width, int height) {
+
+    }
+
+    @Override
+    public void surfaceDestroyed(SurfaceHolder holder) {
+
+    }
+}
