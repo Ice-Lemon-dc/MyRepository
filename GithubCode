@@ -258,6 +258,9 @@ WebView
 	android 4.4以上沉浸式状态栏和沉浸式导航栏管理
 		https://github.com/gyf-dev/ImmersionBar
 		
+	通用，功能全面的自定义标题栏，支持沉浸式标题栏，颜色渐变	
+		https://github.com/wuhenzhizao/android-titlebar
+		
 	沉浸式/透明式状态栏                                                        
 		http://www.jianshu.com/p/d479e91a8014
 	
