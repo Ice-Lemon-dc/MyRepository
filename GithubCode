@@ -118,6 +118,9 @@ ImageView
 		
 	Matisse－图片选择器
 		https://github.com/zhihu/Matisse
+
+        拓展性极高类似微信图片浏览,常见应用场景如微信朋友圈照片九宫格和微信聊天图片预览
+                https://github.com/yangchaojiang/ZoomPreviewPicture
 		
 	设置界面条目封装 
 		https://github.com/leonHua/LSettingView
