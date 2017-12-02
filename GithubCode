@@ -160,6 +160,12 @@ dialog
 	通过封装DialogFragment实现的Dialog
 		https://github.com/tianzhijiexian/EasyDialog
 		
+	Andorid 任意界面悬浮窗
+		https://github.com/yhaolpz/FixedFloatWindow
+		
+	一个使用DialogFragment 做成的dialog样式
+		https://github.com/LinHuanTanLy/FullDialogMaster
+		
 PopupWindow
 	对 PopupWindow 的封装	
 		https://github.com/zyyoona7/EasyPopup
