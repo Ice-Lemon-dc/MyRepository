@@ -387,7 +387,8 @@ Android快速开发框架
 对购物车加减按钮的简单封装	
 	https://github.com/Jmengfei/AddSubUtils
 	
-
+Android ThreadPool的封装
+        https://github.com/OnlyTerminator/GeekThread
 	
 软键盘	
 	https://github.com/zybieku/SoftKeyboardUtil
