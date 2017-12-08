@@ -19,6 +19,9 @@
 	在加载网络或其他数据时候，根据需求切换状态页面， 可添加自定义状态页面，如加载中，加载失败，无数据，网络超时，如占位图，登录失效等常用页面	
 		https://github.com/KingJA/LoadSir
 		
+提高 Android UI 开发效率的 UI 库
+	https://github.com/QMUI/QMUI_Android
+		
 Android智能下拉刷新框架，支持越界回弹
 	https://github.com/scwang90/SmartRefreshLayout
 	https://github.com/lcodecorex/TwinklingRefreshLayout
@@ -54,6 +57,9 @@ RecyclerView
 			https://github.com/wasabeef/recyclerview-animators		
 		常用的RecyclerView的各种需求封装进库(不是RecyclerView,继承FrameLayout)
 			https://github.com/Jude95/EasyRecyclerView
+		你想知道的关于RecyclerView的秘密都在这里
+			https://github.com/ryanlijianchang/PullToLoadData-RecyclerView
+			
 ViewPager
 	UltraViewPager是一个封装多种特性的ViewPager  
 		https://github.com/alibaba/UltraViewPager
@@ -282,7 +288,9 @@ Activity
 	
 	五种实现activity动画切换的方式
 		https://github.com/yipianfengye/android-activityAnim
-	
+		
+	该库是一个对MVP模式的封装，主要目的解决MVP的内存泄露、代码冗余、Presenter的生命周期管理等问题
+		https://github.com/ljqloveyou123/perfect-mvp
 
 支付：
 	https://github.com/kingofglory/EasyPay  (微信、支付宝、银联)
