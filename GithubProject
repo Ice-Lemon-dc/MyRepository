@@ -115,6 +115,9 @@
 	https://github.com/liulingfeng/Common
 	这边封装了基础module（每个app所需要的基本上都有）
 	
+!!MVP+RxJava2+Retrofit2+Glide+Rxbus，主要实现日报、新闻、干货、影视等资讯
+	https://github.com/Horrarndoo/YiZhi
+	
 !!仿最新版微信6.5.7（除图片选择器外）。本项目基于融云SDK，使用目前较火的 Rxjava+Retrofit+MVP+Glide 技术开发。相比上个版本，加入发送位置消息，红包消息等功能。
 	https://github.com/GitLqr/LQRWeChat
 !!任阅" 网络小说阅读器 项目基于RxJava + Retrofit2 + Dagger2，结合MVP模式开发
