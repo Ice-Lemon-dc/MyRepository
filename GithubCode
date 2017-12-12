@@ -372,6 +372,9 @@ android产品研发过程中常用的技术，技巧，实践等
 		https://github.com/lipangit/JieCaoVideoPlayer
 	VideoListPlayer实现了在列表控件（ListView, RecyclerView）中加载并播放视频，并支持滑动时自动播放/暂停的功能	
 		https://github.com/waynell/VideoListPlayer
+		
+	PLDroidPlayer 是七牛推出的一款适用于 Android 平台的播放器 SDK
+		https://github.com/pili-engineering/PLDroidPlayer
 
 	一种支持多种弹幕样式的弹幕视图控件
 		https://github.com/hust201010701/XDanmuku
