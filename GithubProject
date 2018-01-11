@@ -155,6 +155,9 @@ MVP模式，使用 Retorfit2.0+RxJava1.0+OKhttp+Fresco+Rtmp直播，高仿斗鱼
 高仿Bilibili客户端(1900+) 
 	https://github.com/MichaelHuyp/Bilibili_Wuxianda
 	
+Android百度地图实例详解之仿摩拜单车APP(包括附近车辆、规划路径、行驶距离、行驶轨迹记录，轨迹回放，导航等)	
+	https://github.com/gaoleiandroid1201/BiuBike
+	
 Kotlin
 	!!!使用Kotlin撸一款Eyepetizer
 		https://github.com/LRH1993/Eyepetizer-in-Kotlin
@@ -165,5 +168,7 @@ Kotlin
 	!life 是一个多媒体信息app
 		https://github.com/Cuieney/kotlin-life(基于Material Design Kotlin + MVP + RxJava + Retrofit + Dagger2 + GreenDAO + Glide)
 	
+	https://github.com/wangzailfm/WanAndroidClient
 	
-
+https://github.com/Will-Ls/WeiYue
+https://github.com/Will-Ls/WeiYueKotlin
