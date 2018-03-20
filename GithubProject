@@ -28,6 +28,9 @@
 	15、SwipeRefreshLayout结合RecyclerView下拉刷新上拉加载。
 	16、CoordinatorLayout+Behavior实现标题栏渐变。
 	
+!!!一款第三方今日头条客户端
+	https://github.com/iMeiji/Toutiao
+	
 !!Daily
 	https://github.com/spring2613/Daily
 	
@@ -55,65 +58,9 @@
 	自定义ScrollView
 	自定义字母索引侧滑栏
 	ShareSDK第三方登录、分享
-!!基于Rxjava+Retrofit+Okhttp+leancloud的完整项目（段子手）
-
-	https://github.com/wenzhihao123/Android-rxjava-retrofit-okhttp-app
-	
-	Base基础类的封装，toolbar封装，错误页面及加载页面，未登录页面封装；
-	Rxjava + Retrofit + Okhttp 封装网络请求 ;
-	fresco加载图片，webview加载图片;
-	leancloud用户管理系统及动态管理系统;
-	umeng分享接入;
-	eventBus事件总线的使用;
-	PhotoPicker图片选择器;
-	自定义加载对话框及提示框等等;
-!!!一款第三方今日头条客户端
-	https://github.com/iMeiji/Toutiao
 	
 !!RxJava2+RxBus+Retrofit+Glide+Material Design Weather App
 	https://github.com/xcc3641/SeeWeather
-	
-!!仿网易云音乐 安卓 版客户端(2600+)
-	https://github.com/aa112901/remusic
-	Timber
-	Fresco
-	MediaPlayerProxy
-	Android-ObservableScrollView
-	retrofit
-	ImitateNetEasyCloud
-	okhttp
-	CustomLrcView
-	MagicaSakura	
-	
-!!豆芽客户端(2800+)
-	https://github.com/DreaminginCodeZH/Douya
-	PhotoView
-	Glide
-	Gson
-	ButterKnife
-	DiskLruCache
-	ThreeTenABP
-	Volley
-	EventBus
-	CustomTabsHelper
-	MaterialEditText
-	MaterialProgressBar
-	SystemUiHelper
-	MaterialColdStart
-	
-!!MD版的花瓣网App
-	https://github.com/LiCola/huabanDemo
-	架构：MVC
-	图片加载：Picasso
-	网络请求：RxJava & Retrofit＋okhttp
-	界面遵循Google Meterial 设计风格
-	
-!!秀趣
-	https://github.com/liulingfeng/Common
-	这边封装了基础module（每个app所需要的基本上都有）
-	
-!!MVP+RxJava2+Retrofit2+Glide+Rxbus，主要实现日报、新闻、干货、影视等资讯
-	https://github.com/Horrarndoo/YiZhi
 	
 !!仿最新版微信6.5.7（除图片选择器外）。本项目基于融云SDK，使用目前较火的 Rxjava+Retrofit+MVP+Glide 技术开发。相比上个版本，加入发送位置消息，红包消息等功能。
 	https://github.com/GitLqr/LQRWeChat
@@ -166,6 +113,3 @@ Kotlin
 		https://github.com/Cuieney/kotlin-life(基于Material Design Kotlin + MVP + RxJava + Retrofit + Dagger2 + GreenDAO + Glide)
 	
 	https://github.com/wangzailfm/WanAndroidClient
-	
-https://github.com/Will-Ls/WeiYue
-https://github.com/Will-Ls/WeiYueKotlin
