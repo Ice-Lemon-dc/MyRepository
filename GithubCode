@@ -8,8 +8,6 @@
 		https://github.com/yipianfengye/android-viewheight 
 
 网络请求
-	一款基于Retrofit2+RxJava实现简单易用的网络请求框架
-		https://github.com/zhou-you/RxEasyHttp
 	Android网络框架，基于Retrofit和RxJava打造的链式网络库
 		https://github.com/Tamicer/Novate
 	处理网络的最简方式
