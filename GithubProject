@@ -1,12 +1,4 @@
-!!非官方的豆瓣app 
-	https://github.com/forezp/banya
-	RXJava
-	RxAndroid
-	okhttp
-	retrofit
-	butterknif
-	glide
-	StatusBarUtil
+
 
 !!!云阅：一款基于网易云音乐UI，使用Gank.Io及豆瓣api开发的符合Google Material Design的Android客户端(1500+)
 	https://github.com/youlookwhat/CloudReader
