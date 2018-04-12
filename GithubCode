@@ -353,6 +353,8 @@ Android6.0权限处理
 Log框架
 	https://github.com/orhanobut/logger
 	
+	https://github.com/Blankj/ALog
+	
 图片变换库
 	https://github.com/wasabeef/glide-transformations
 	
