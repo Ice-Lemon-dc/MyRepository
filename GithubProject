@@ -79,11 +79,17 @@ Android百度地图实例详解之仿摩拜单车APP(包括附近车辆、规划
 Kotlin
 	!!!使用Kotlin撸一款Eyepetizer
 		https://github.com/LRH1993/Eyepetizer-in-Kotlin
+		
+	!!!基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现短视频类APP练手项目	
+		https://github.com/git-xuhao/KotlinMvp
+		
+	!!life 是一个多媒体信息app
+		https://github.com/Cuieney/kotlin-life(基于Material Design Kotlin + MVP + RxJava + Retrofit + Dagger2 + GreenDAO + Glide)
+	
 	!!!使用Kotlin开发的Dribbble客户端
 		https://github.com/550609334/Twobbble
 	!!Android Geek（Android极客）
 		https://github.com/CodeXiaoMai/AndroidGeek
-	!!life 是一个多媒体信息app
-		https://github.com/Cuieney/kotlin-life(基于Material Design Kotlin + MVP + RxJava + Retrofit + Dagger2 + GreenDAO + Glide)
+	
 	
 
